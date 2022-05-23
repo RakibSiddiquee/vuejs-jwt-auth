@@ -1,4 +1,5 @@
-# golang-vue-auth
+# Vue.js JWT Authentication - Backend Golang
+#### We use golang for backend
 
 ## Project setup
 ```
